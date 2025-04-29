@@ -1,5 +1,5 @@
 # Lyon County Intelligence Gathering
-f
+
 In this bright year 2025, the digital landscape resembles nothing so much as ancient Rome—magnificent, crowded, and utterly resistant to architectural innovation. Platform loyalties are settled with the finality of religious conversion. 
 
 But, another app? ***Meh*** ... Save your breath and development time -- nobody cares. Only folks who belong in the nursing home need to look in the rear view mirror and drive toward to what worked ten or fifteen or fifty years ago.
