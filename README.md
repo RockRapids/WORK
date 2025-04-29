@@ -28,7 +28,7 @@ The Rock Rapids Intelligence Gathering Applications ecosystem consists of eight 
 Our API-first, low-latency approach focuses on three core principles:
 
 1. **Ditch any sense of entitlement**: We don't expect users to change their media preferences; instead we prioritize reliable, utilitarian tools that better present choices
-2. **Connect dots; let users fill gaps**: We use AI to integrate significant more sources of information and choose lower-latency technologies to better present comparable choices
+2. **Connect dots; but let users fill gaps**: We use AI to integrate significant more sources of information and choose lower-latency technologies to better present comparable choices
 3. **Develop the Developers**: The project is about developing the developers who will [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) simple, EXTENSIBLE open source solutions that can readily maintain and improved
 
 Our architecture will continue to be selected for its maintainability, performance, and alignment with developing and growing the skill sets available in our community of high-agency volunteers.
